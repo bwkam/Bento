@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Mastodon',
+			icon: 'laptop',
+			link: 'https://fosstodon.org/homehttps://fosstodon.org/home',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Discord',
+			icon: 'message-square',
+			link: 'https://discord.com/app',
 		},
 		{
 			id: '5',
